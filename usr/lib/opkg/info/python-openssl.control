@@ -1,0 +1,12 @@
+Package: python-openssl
+Version: 2.7.3-2
+Depends: libc, python-mini, libopenssl
+Source: /opt/users/xy/openwrt/code_trunk/feed/packages/lang/python
+SourceFile: Python-2.7.3.tar.xz
+SourceURL: http://www.python.org/ftp/python/2.7.3
+License: PSF
+LicenseFiles: LICENSE Modules/_ctypes/libffi_msvc/LICENSE Modules/_ctypes/darwin/LICENSE Modules/_ctypes/libffi/LICENSE Modules/_ctypes/libffi_osx/LICENSE Tools/pybench/LICENSE
+Section: lang
+Architecture: ramips_24kec
+Installed-Size: 11210
+Description:  Python support for OpenSSL

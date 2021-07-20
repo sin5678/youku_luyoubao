@@ -1,0 +1,42 @@
+Package: python
+Version: 2.7.3-2
+Depends: libc, libpthread, zlib, libffi, python-mini
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1458880633
+
+Package: youku-livep2p-stunclient
+Version: 2.1.1228.65288-65288
+Depends: libc, libpthread, librt, libstdcpp, libopenssl
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1479197799
+
+Package: libffi
+Version: 3.0.13-1
+Depends: libc
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1458880609
+
+Package: youku-livep2p-agent
+Version: 2.2.1115.17826-83361
+Depends: libc, libcurl, libevent, libjson-c, zlib
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1525835406
+
+Package: python-mini
+Version: 2.7.3-2
+Depends: libc, libpthread, zlib
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1458880619
+
+Package: python-openssl
+Version: 2.7.3-2
+Depends: libc, python-mini, libopenssl
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1458880634
+

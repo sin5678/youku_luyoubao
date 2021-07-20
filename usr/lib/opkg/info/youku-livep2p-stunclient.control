@@ -1,0 +1,8 @@
+Package: youku-livep2p-stunclient
+Version: 2.1.1228.65288-65288
+Depends: libc, libpthread, librt, libstdcpp, libopenssl
+Source: feeds/youku/livep2p/stunclient
+Section: youku
+Architecture: ramips_24kec
+Installed-Size: 32483
+Description:  livep2p is an P2P based application that lets you accellerate visiting media.

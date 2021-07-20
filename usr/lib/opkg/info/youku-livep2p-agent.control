@@ -1,0 +1,8 @@
+Package: youku-livep2p-agent
+Version: 2.2.1115.17826-83361
+Depends: libc, libcurl, libevent, libjson-c, zlib
+Source: feeds/youku/livep2p/agent
+Section: youku
+Architecture: ramips_24kec
+Installed-Size: 45292
+Description:  livep2p is an P2P based application that lets you accellerate visiting media.
